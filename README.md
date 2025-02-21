@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Everyone knows me as Jay and I like to create. Be it some weird art or some coding challenge I'm always up for it. <br><br>- <br>- 📚 I'm currently exploring computer science<br>- ⚡ In my free time I love to stare at art, watch anime or play chess</p>
+<p align="left">Everyone knows me as Jay Arindam and I like to create. Be it some weird art or some coding challenge I'm always up for it. <br><br>- <br>- 📚 I'm currently exploring computer science<br>- ⚡ In my free time I love to stare at art, watch anime or play chess</p>
 
 ###
 
